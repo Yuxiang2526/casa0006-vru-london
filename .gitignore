@@ -31,3 +31,12 @@ data/external/
 *.log
 *.tmp
 scratch/
+
+# === Academic references (copyrighted PDFs — DO NOT PUSH) ===
+references/
+
+# === Build artifacts ===
+*.html
+
+# === Claude session scratch files ===
+notebooks/_*
